@@ -11,24 +11,3 @@ export default class App extends React.Component {
 }
 
 
-//c r r d n d e e e m i l t
-
-//caderio
-//respiração
-// reprodutor
-
-// digestação
-// nervoso
-// escretor
-// edeocrimo
-// urinario
-// esqueletico
-// musculilar
-// imunoligico
-// linfatico 
-// tegumentar 
-
-
-//arteria > arteriora > capilar
-
-//diastori relaçamento
